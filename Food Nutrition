@@ -1,0 +1,111 @@
+{
+  "food": {
+    "name": "Chicken Biryani",
+    "description": "A flavorful South Asian dish made with basmati rice, chicken, aromatic spices, and herbs.",
+    "serving_size": "1 plate (approx. 350g)",
+    "ingredients": [
+      "Basmati Rice",
+      "Chicken (bone-in or boneless)",
+      "Onions",
+      "Tomatoes",
+      "Yogurt",
+      "Ghee or Oil",
+      "Spices (cumin, cardamom, cloves, cinnamon, bay leaves, turmeric, coriander, garam masala)",
+      "Fresh cilantro",
+      "Mint leaves",
+      "Green chilies",
+      "Water"
+    ],
+    "nutrition_facts": {
+      "calories": 450,
+      "total_fat": {
+        "value": 18,
+        "unit": "g",
+        "percentage_daily_value": 23
+      },
+      "saturated_fat": {
+        "value": 5,
+        "unit": "g",
+        "percentage_daily_value": 25
+      },
+      "trans_fat": {
+        "value": 0,
+        "unit": "g"
+      },
+      "cholesterol": {
+        "value": 85,
+        "unit": "mg",
+        "percentage_daily_value": 28
+      },
+      "sodium": {
+        "value": 600,
+        "unit": "mg",
+        "percentage_daily_value": 26
+      },
+      "total_carbohydrates": {
+        "value": 45,
+        "unit": "g",
+        "percentage_daily_value": 16
+      },
+      "dietary_fiber": {
+        "value": 2,
+        "unit": "g",
+        "percentage_daily_value": 7
+      },
+      "sugars": {
+        "value": 3,
+        "unit": "g"
+      },
+      "protein": {
+        "value": 28,
+        "unit": "g",
+        "percentage_daily_value": 56
+      },
+      "vitamins_and_minerals": {
+        "vitamin_a": {
+          "value": 10,
+          "unit": "% DV"
+        },
+        "vitamin_c": {
+          "value": 15,
+          "unit": "% DV"
+        },
+        "calcium": {
+          "value": 6,
+          "unit": "% DV"
+        },
+        "iron": {
+          "value": 12,
+          "unit": "% DV"
+        }
+      }
+    },
+    "health_grade": {
+      "grade": "B",
+      "reasoning": "Chicken Biryani is a protein-rich meal but contains moderate levels of saturated fat and sodium. It can be part of a balanced diet if consumed in moderation."
+    },
+    "dietary_information": {
+      "suitable_for": ["non-vegetarians"],
+      "allergens": ["dairy (yogurt)", "gluten-free"],
+      "special_diets": {
+        "low_carb": false,
+        "high_protein": true,
+        "low_sodium": false,
+        "keto_friendly": false,
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+    "preparation_tips": [
+      "Use skinless chicken to reduce saturated fat content.",
+      "Add more vegetables like carrots, peas, or bell peppers for extra fiber and nutrients.",
+      "Use less oil or ghee to make it lighter.",
+      "Adjust spice levels according to preference."
+    ],
+    "pairing_suggestions": [
+      "Raita (yogurt side dish)",
+      "Salad with cucumber, tomatoes, and onions",
+      "Papadum or naan bread"
+    ]
+  }
+}
